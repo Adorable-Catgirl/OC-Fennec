@@ -1,0 +1,6 @@
+# FOX Manifest
+Manifest-Version=1.0
+App-Version=1.0
+App-Name=Test Application
+App-Vendor=sam
+App-Description=A test application
