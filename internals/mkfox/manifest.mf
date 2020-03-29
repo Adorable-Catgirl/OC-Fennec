@@ -1,0 +1,6 @@
+# FOX Manifest
+Manifest-Version=1.0
+App-Version=1.0
+App-Name=mkfox
+App-Vendor=sam
+App-Description=A utility to make FOX executables

@@ -15,7 +15,7 @@ function queue:peek()
 end
 
 return function()
-	return setmetatable({__type="queue"}, {__index=queue, __tostring=function(t)
+	return setmetatable({}, {__type="queue", __index=queue, __tostring=function(t)
 		return "["..table.concat(t, ", ").."]"
 	end})
 end

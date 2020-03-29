@@ -1,0 +1,6 @@
+# FOX Manifest
+Manifest-Version=1.0
+App-Version=1.0
+App-Name=Fennec SHell
+App-Vendor=sam
+App-Description=FSH is the custom shell of the Fennec opperating system
